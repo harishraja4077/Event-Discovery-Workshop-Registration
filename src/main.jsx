@@ -7,7 +7,7 @@ import './index.css'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter basename="/Event-Discovery-Workshop-Registration">
+    <BrowserRouter>
       <App />
     </BrowserRouter>
   </StrictMode>,
